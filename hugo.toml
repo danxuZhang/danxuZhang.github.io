@@ -1,0 +1,4 @@
+baseURL = 'https://danxuZhang.github.io/'
+languageCode = 'en-us'
+title = 'dxBlog'
+theme = 'blowfish'
