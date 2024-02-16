@@ -16,7 +16,7 @@ title = "dxBlog"
 [author]
   name = "Danxu Zhang"
   image = "avatar.jpg"
-  headline = "Welcome to Danxu's Blog"
+  headline = "Exploring High-Performance Computing, Capturing Moments, and Savoring Life's Simple Pleasures"
   bio = "Computer Science @ NTU"
   links = [
     { email = "dxzhang49@gmail.com" },
